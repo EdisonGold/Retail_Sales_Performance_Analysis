@@ -9,10 +9,9 @@ This project focuses on analyzing the sales performance of an online retail comp
 - **Dataset Name:** Online Retail Dataset
 - **Dataset Link:** [Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)
 
-## Project Ideas
+## Project
 
 1. **Customer Segmentation:**
-   - Use SQL to segment customers based on their purchasing behavior.
    - Identify high-value customers, new customers, or those at risk of churning.
 
 2. **Product Performance Analysis:**
@@ -21,7 +20,6 @@ This project focuses on analyzing the sales performance of an online retail comp
 
 3. **Geographic Analysis:**
    - Explore sales patterns based on geographic information.
-   - Visualize sales on a map and analyze regional variations.
 
 4. **Time-Series Analysis:**
    - Investigate sales trends over time.
@@ -29,7 +27,6 @@ This project focuses on analyzing the sales performance of an online retail comp
 
 5. **Promotion Impact:**
    - If available, analyze the impact of promotions or discounts on sales.
-   - Identify successful promotions and their effect on customer behavior.
 
 ## How to Use
 
