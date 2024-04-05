@@ -18,15 +18,6 @@ This project focuses on analyzing the sales performance of an online retail comp
    - Analyze the performance of different products.
    - Identify best-selling products, slow-moving items, and trends over time.
 
-3. **Geographic Analysis:**
-   - Explore sales patterns based on geographic information.
-
-4. **Time-Series Analysis:**
-   - Investigate sales trends over time.
-   - Identify seasonality, monthly trends, or any patterns that can inform business strategy.
-
-5. **Promotion Impact:**
-   - If available, analyze the impact of promotions or discounts on sales.
 
 ## How to Use
 
